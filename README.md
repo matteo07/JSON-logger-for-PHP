@@ -4,6 +4,8 @@ Store in a JSON file infos about IP and user_agent of the users that connect to 
 ## Instruction
 Add the PHP code you see in index.php in every page where you want to log user infos
 
+Make sure that at the beginning the log file contains empty square brackets
+
 A single log is stored with the following structure
 
 {
