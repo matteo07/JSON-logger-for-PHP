@@ -1,14 +1,13 @@
 # JSON-logger-for-PHP
 Store in a JSON file infos about IP and user_agent of the users that connect to a page
 
-#Instruction
+## Instruction
 Add the PHP code you see in index.php in every page that you want to log user infos
-
 
 A log is stored with the following structure
 
-
 {
+  
   page_visited: "/", 
 
   time: "2018-02-16 18:58:41", 
